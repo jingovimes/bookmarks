@@ -7,6 +7,6 @@
 		
 	function LoginController(){
 		var vm = this;
-		vm.test = 'Hello today';
+		vm.test = 'Hello today you';
 	}
 })();
